@@ -26,7 +26,7 @@ El diseño interface builder está en Storyboards y Xib.
 
 Se adapta a todas las medidas de los iPhones desde un iPhone 8 hasta una 14 Pro Max.
 
-Se usan UIViewController, UITableView, UISearchBar, UITextField, UIImage, UIView, UILabel.
+Se usan UIViewController, UITableView, UISearchBar, UITextField, UIImage, UIView, UILabel, UINavigationController.
 
 Para ver la ubicación de la receta se usa MapKit y MKPointAnnotation (la longitud y latitud lo trae desde el servicio y por front mobile se muestra).
 
