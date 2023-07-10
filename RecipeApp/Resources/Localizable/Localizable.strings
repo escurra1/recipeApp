@@ -1,0 +1,24 @@
+/* 
+ Localizable.strings
+ RecipeApp
+ 
+ Created by Escurra Colquis on 07/07/23.
+ 
+ */
+
+"accept" = "Aceptar";
+"errorTitle" = "Error";
+"successData" = "¡Cargado exitoso.!";
+"refreshData" = "Refrescando datos...";
+"loadData" = "Cargando";
+"verificatedInternet" = "Verifica tu internet";
+"notFound" = "No encontrado";
+"pleaseWait" = "espere por favor...";
+"searchRecipe" = "Buscar Receta";
+"listIsEmpty" = "Receta no encontrada";
+"messageAlert" = "Por favor escribir una receta en esta lista para poder buscarla. Gracias";
+"ubication" = "Ubicación";
+"country" = "País de origen: ";
+"rating" = "Valoración: ";
+"preparation" = "Preparación";
+"errorGeneric" = "¡Error de servicio o conéctese a internet! Por favor vuelva a ingresar a la aplicación";
